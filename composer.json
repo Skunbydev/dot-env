@@ -1,5 +1,5 @@
 {
-  "name": "skunbydev/dot-env",
+  "name": "Skunbydev/dot-env",
   "description": "Simple library for managing environment variables in PHP.",
   "type": "library",
   "license": "GPL-3.0-or-later",
