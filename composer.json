@@ -15,7 +15,6 @@
         }
     },
     "require": {
-        "php": ">=7.0",
-        "skunbydev/dot-env": "^1.0"
+        "php": ">=7.0"
     }
 }
