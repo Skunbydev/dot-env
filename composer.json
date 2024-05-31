@@ -1,0 +1,20 @@
+{
+  "name": "skunbydev/dot-env",
+  "description": "Simple library for managing environment variables in PHP.",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Luiz Felipe",
+      "email": "skunbydev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Skunbydev\\DotEnv\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
